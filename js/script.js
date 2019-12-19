@@ -16,3 +16,5 @@ for (var i = 0; i <= 100; i++) {
         console.log(i);
     }
 }
+
+//Задача из книги "ВЫРАЗИТЕЛЬНЫЙ JAVASCRIPT"
